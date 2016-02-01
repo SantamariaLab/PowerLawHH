@@ -1,0 +1,4 @@
+*.m		text
+*.txt	text
+
+*.mat	binary
